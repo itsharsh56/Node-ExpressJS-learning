@@ -1376,7 +1376,7 @@ Use this checklist while developing:
 
 ## License
 
-This project is intended for educational purposes.
+This project is intended for educational purposes only.
 
 The project currently uses the ISC license as specified in `package.json`.
 
